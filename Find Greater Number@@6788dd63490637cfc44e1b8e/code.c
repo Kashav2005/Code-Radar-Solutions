@@ -13,6 +13,6 @@ int main()
     }
     else
     {
-        printf("try again");
+        printf("0");
     }
 }
