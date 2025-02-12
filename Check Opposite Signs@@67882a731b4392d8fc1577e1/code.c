@@ -7,12 +7,12 @@ int main()
     {
         printf("True");
     }
-    elseif((a<0) && (b>0))
+    else if((a<0) && (b>0))
     {
         printf("True");
     }
     else{
-             printf("Flase");
+             printf("False");
     }
     return 0;
 }
