@@ -23,5 +23,5 @@ int main()
     {
         printf("F");
     }
-    return o;
+    return 0;
 }
