@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    char a;
+    char a[2];
     scanf("%s",&a);
     scanf("%s",&b);
     if(a>=65 && a<=90)
