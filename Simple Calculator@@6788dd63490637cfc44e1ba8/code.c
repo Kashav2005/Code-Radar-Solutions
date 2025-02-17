@@ -4,6 +4,7 @@ int main()
     int a,b,x;
     scanf("%d",&a);
     scanf("%d",&b);
+    scanf("%d",&x);
     if(x==+)
     {
         printf("%d",a+b);
