@@ -8,7 +8,7 @@ int main()
     }
     else
     {
-        printf("NotEligible");
+        printf("Not Eligible");
     }
     return 0;
 }
