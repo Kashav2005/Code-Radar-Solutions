@@ -21,7 +21,7 @@ int main()
             printf("Error\n");
         }
         else{
-            printf("%d",a/b)
+            printf("%d\n",a/b)
         }
         break;
     default;
