@@ -3,7 +3,7 @@ int main()
 {
     int x;
     scanf("%d",&x);
-    switch(x
+    switch(x)
     {
         case A:
         printf("Excellent");
@@ -25,6 +25,6 @@ int main()
 
 
 
-    })
+    }
     return 0;
 }
