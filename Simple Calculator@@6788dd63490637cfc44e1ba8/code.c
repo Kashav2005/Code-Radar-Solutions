@@ -9,15 +9,8 @@ int main(){
     printf("%d",a-b);
     else if(x==*)
     printf("%d",a*b);
-    else{
-    if(x==0)
-    {
-        printf("Error");
-    }
     else
-    {
-        printf("%d",a/b);
-    }}
+    printf("%d",a/b);
     return 0;
 
 }
