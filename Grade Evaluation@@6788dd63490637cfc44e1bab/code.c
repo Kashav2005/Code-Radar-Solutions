@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main()
 {
-    char grade ;
-    scanf("%c",&grade);
-    switch(grade)
+    char X ;
+    scanf("%c",&X);
+    switch(X)
     {
     case 'A':
         printf("Excellent\n");
