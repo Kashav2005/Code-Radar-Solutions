@@ -1,20 +1,20 @@
 #include<stdio.h>
 int main()
 {
-    char a;
-    scanf("%d",&a);
-    switch(a){
+    char light;
+    scanf("%c",&light);
+    switch(light){
         case 'R':
-        printf("Stop");
+        printf("Stop\n");
         break;
         case 'G':
-        printf("Go");
+        printf("Go\n");
         break;
         case 'Y':
-        printf("Slow Down");
+        printf("Slow Down\n");
         break;
         default:
-        printf("Invalid input");
+        printf("Invalid input\n");
     }
     return 0;
 }
