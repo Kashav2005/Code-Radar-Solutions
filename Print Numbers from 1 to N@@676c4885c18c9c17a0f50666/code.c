@@ -1,4 +1,4 @@
-#include<sdtio.h>
+#include<stdio.h>
 int main()
 {
     int i,N;
